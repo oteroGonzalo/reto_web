@@ -33,7 +33,7 @@ function Telephones() {
     }, []);
    
 
-        // < Spinner animation = "border" />
+     
     return (
         <>
            
